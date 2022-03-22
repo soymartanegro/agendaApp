@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VIP Agenda</string>
+    <string name="hint_name">Name:</string>
+    <string name="hint_telephone">Telephone:</string>
+    <string name="hint_email">Email:</string>
+    <string name="btn_guarda">Save Contact:</string>
+    <string name="menu_newContact">New Contact:</string>
+    <string name="btn_start">Start</string>
+</resources>
